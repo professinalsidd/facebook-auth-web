@@ -16,8 +16,8 @@ This project demonstrates how to implement Facebook authentication in a React ap
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/facebook-auth-react.git
-   cd facebook-auth-react
+   git clone https://github.com/professinalsidd/facebook-auth-web
+   cd fb-auth-web
    ```
 
 Install Dependencies
