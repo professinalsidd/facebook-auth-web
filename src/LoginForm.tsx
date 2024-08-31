@@ -29,7 +29,7 @@ const LoginForm = (props: any) => {
       ) : (
         <FacebookLogin
           buttonStyle={{ padding: "6px" }}
-          appId="1753051902105384"
+          appId="xxx use id"
           autoLoad={false}
           fields="name,email,picture"
           callback={handleFacebookCallback}
