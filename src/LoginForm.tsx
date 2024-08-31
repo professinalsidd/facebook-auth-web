@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import FacebookLogin from "react-facebook-login";
 
 const LoginForm = (props: any) => {
@@ -29,7 +29,7 @@ const LoginForm = (props: any) => {
       ) : (
         <FacebookLogin
           buttonStyle={{ padding: "6px" }}
-          appId="xxxx use env file"
+          appId="1753051902105384"
           autoLoad={false}
           fields="name,email,picture"
           callback={handleFacebookCallback}
